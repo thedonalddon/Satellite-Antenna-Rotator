@@ -432,7 +432,7 @@ void sendCommand(const byte command[]) {
   }
 }
 
-// Automatic mode: Display real-time position and satellite position on the screen
+// Automode display: show PTZ position and satellite position on the screen
 void displayPosition(int currentPan, int currentTilt, int satPan, int satTilt) {
   // Clear display.
   display.clearDisplay();
