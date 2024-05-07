@@ -13,9 +13,11 @@ TTL to RS485 Module: MAX485
 PTZ: any model supports RS485 protocol
 
 
+
 optional:
 
 Voltage Regulator Module: MP1584EN, extracting 12V power supply from the PTZ, and convert to 3.3V for MCU usage.
+
 
 
 Demo:
