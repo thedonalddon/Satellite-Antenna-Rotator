@@ -1,5 +1,5 @@
 # Auto Satellite Tracking Antenna Rotator
-Amateur Ham radio satellite antenna auto rotator, based on ESP32. 
+A satellite auto tracking antenna rotator for HAM radio, based on ESP32. 
 Use Android LOOK4SAT App, send Ameteur HAM radio satellite positions to the rotator via Bluetooth serial port, enabling automatic satellite tracking.
 
 ## Hardware
