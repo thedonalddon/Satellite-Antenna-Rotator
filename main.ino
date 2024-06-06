@@ -32,8 +32,8 @@ const int PAN_MAX = 341;
 const int TILT_MIN = -4;
 const int TILT_MAX = 87;
 
-// Define the ESP32 Bluetooth MAC address.
-String BTMAC = "your ESP32 Bluetooth mac";
+// Your ESP32 Bluetooth MAC address.
+String BTMAC = "00:00:00:00:00:00";
 
 // Define the initial pan and tilt angles of the PTZ.
 float currentPan = 0;
